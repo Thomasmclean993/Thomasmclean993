@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://roadmap.sh/card/wide/6931eb52695568122a295528?variant=dark
+
 <!--
 **Thomasmclean993/Thomasmclean993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
